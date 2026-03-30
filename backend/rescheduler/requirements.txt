@@ -1,0 +1,4 @@
+django
+djangorestframework
+ortools
+django-cors-headers
